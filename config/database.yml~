@@ -1,0 +1,28 @@
+
+
+development:
+  adapter: mysql
+  encoding: utf8
+  database: typo
+  username: root
+  password: root
+  host: 127.0.0.1
+  port: 3306
+
+test:
+  adapter: mysql
+  encoding: utf8
+  database: typo
+  username: root
+  password: root
+  host: 127.0.0.1
+  port: 3306
+
+production:
+  adapter: mysql
+  encoding: utf8
+  database: typo
+  username: root
+  password: root
+  host: 127.0.0.1
+  port: 3306
